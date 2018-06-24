@@ -21,6 +21,9 @@ public class WasIstEinArray {
 		zahlenArray1[1] = 34.23;
 		zahlenArray1[4] = 50.45;
 
+		String [] personA = { "Peter", "Müller", "35" };
+		System.out.println("Name: " + personA[0]);
+		
 	}
 
 }
